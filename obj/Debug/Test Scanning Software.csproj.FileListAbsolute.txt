@@ -1,0 +1,57 @@
+C:\Users\Uttza\AppData\Local\Temporary Projects\Test Scanning Software\bin\Debug\Test Scanning Software.exe.config
+C:\Users\Uttza\AppData\Local\Temporary Projects\Test Scanning Software\bin\Debug\Test Scanning Software.exe
+C:\Users\Uttza\AppData\Local\Temporary Projects\Test Scanning Software\bin\Debug\Test Scanning Software.pdb
+C:\Users\Uttza\AppData\Local\Temporary Projects\Test Scanning Software\obj\Debug\Test Scanning Software.csprojResolveAssemblyReference.cache
+C:\Users\Uttza\AppData\Local\Temporary Projects\Test Scanning Software\obj\Debug\Test_Scanning_Software.Form1.resources
+C:\Users\Uttza\AppData\Local\Temporary Projects\Test Scanning Software\obj\Debug\Test_Scanning_Software.Properties.Resources.resources
+C:\Users\Uttza\AppData\Local\Temporary Projects\Test Scanning Software\obj\Debug\Test Scanning Software.csproj.GenerateResource.Cache
+C:\Users\Uttza\AppData\Local\Temporary Projects\Test Scanning Software\obj\Debug\Test Scanning Software.csproj.CoreCompileInputs.cache
+C:\Users\Uttza\AppData\Local\Temporary Projects\Test Scanning Software\obj\Debug\Test Scanning Software.exe
+C:\Users\Uttza\AppData\Local\Temporary Projects\Test Scanning Software\obj\Debug\Test Scanning Software.pdb
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\Test Scanning Software.exe.config
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\Test Scanning Software.exe
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\Test Scanning Software.pdb
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\obj\Debug\Test Scanning Software.csprojResolveAssemblyReference.cache
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\obj\Debug\Test_Scanning_Software.Properties.Resources.resources
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\obj\Debug\Test Scanning Software.csproj.GenerateResource.Cache
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\obj\Debug\Test Scanning Software.csproj.CoreCompileInputs.cache
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\obj\Debug\Test Scanning Software.exe
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\obj\Debug\Test Scanning Software.pdb
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\obj\Debug\Test_Scanning_Software.MainGUI.resources
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\obj\Debug\Test_Scanning_Software.GUI.NewTest.resources
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\itextsharp.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\itextsharp.xml
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\obj\Debug\Test_Scanning_Software.Data.SheetGeneratorWaitingDialog.resources
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\Emgu.CV.World.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\OpenTK.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\ZedGraph.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\Emgu.CV.World.xml
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\OpenTK.xml
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\ZedGraph.xml
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\obj\Debug\Test_Scanning_Software.GUI.Graded.resources
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\obj\Debug\Test_Scanning_Software.GUI.Form1.resources
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\x64\liblept172.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\x64\libtesseract304.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\x86\liblept172.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\x86\libtesseract304.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\Tesseract.dll
+C:\Users\Uttza\OneDrive\Certiprep 2.0\Test Scanning Software\Test Scanning Software\bin\Debug\Tesseract.xml
